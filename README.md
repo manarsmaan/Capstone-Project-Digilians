@@ -3,7 +3,7 @@
 
 A graduation capstone (Digilians – Digital Pioneers Initiative) built on the DataCo Supply Chain dataset. The team cleaned the data in Python, modeled it in SQL Server using a Medallion Architecture, and delivered six Power BI dashboards plus a risk advisor that turns delivery and discount behavior into financial-risk signals for management.
 
-![AKOMA Infographic](akoma-infographic.png)
+![AKOMA Infographic](info.png)
 
 ## 🎯 Business Problem
 - **18.71%** of order lines are loss-making.
